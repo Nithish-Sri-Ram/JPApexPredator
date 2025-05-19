@@ -3,8 +3,8 @@
 		"id": 1,
 		"name": "Velociraptor",
         "type": "land",
-        "latitude": 32.8236,
-        "longitude": -96.7166,
+        "latitude": 27.1715,
+        "longitude": 78.0421,
 		"movies": [
 			"Jurassic Park",
 			"The Lost World: Jurassic Park",
@@ -51,8 +51,8 @@
         "id": 2,
         "name": "Brachiosaurus",
         "type": "land",
-        "latitude": 41.1403,
-        "longitude": -104.8202,
+        "latitude": 26.9859,
+        "longitude": 75.8507,
         "movies": [
             "Jurassic Park",
             "Jurassic Park III",
@@ -87,8 +87,8 @@
 		"id": 3,
 		"name": "Tyrannosaurus Rex",
 		"type": "land",
-        "latitude": 36.1129,
-        "longitude": -115.1765,
+        "latitude": 18.9219,
+        "longitude": 72.8347,
 		"movies": [
 			"Jurassic Park",
 			"The Lost World: Jurassic Park",
@@ -135,8 +135,8 @@
 		"id": 4,
 		"name": "Dilophosaurus",
 		"type": "land",
-        "latitude": 35.0875713,
-        "longitude": -106.6656291,
+        "latitude": 31.6200,
+        "longitude": 74.8765,
 		"movies": [
 			"Jurassic Park",
             "Jurassic World: Dominion"
@@ -159,8 +159,8 @@
 		"id": 5,
 		"name": "Compsognathus",
 		"type": "land",
-        "latitude": 44.35894,
-        "longitude": -100.34366,
+        "latitude": 17.3616,
+        "longitude": 78.4747,
 		"movies": [
 			"The Lost World: Jurassic Park",
 			"Jurassic Park III",
@@ -195,8 +195,8 @@
 		"id": 6,
 		"name": "Stegosaurus",
 		"type": "land",
-        "latitude": 37.3346,
-        "longitude": -122.0090,
+        "latitude": 22.5448,
+        "longitude": 88.3426,
 		"movies": [
 			"The Lost World: Jurassic Park",
 			"Jurassic Park III",
@@ -237,8 +237,8 @@
 		"id": 7,
 		"name": "Pachycephalosaurus",
 		"type": "land",
-        "latitude": 35.794540,
-        "longitude": -95.310935,
+        "latitude": 9.9195,
+        "longitude": 78.1194,
 		"movies": [
 			"The Lost World: Jurassic Park",
 			"Jurassic World"
@@ -261,8 +261,8 @@
 		"id": 8,
 		"name": "Pteranodon",
 		"type": "air",
-        "latitude": 32.7848,
-        "longitude": -96.8025,
+        "latitude": 12.3051,
+        "longitude": 76.6551,
 		"movies": [
 			"The Lost World: Jurassic Park",
 			"Jurassic Park III",
@@ -303,8 +303,8 @@
 		"id": 9,
 		"name": "Spinosaurus",
 		"type": "land",
-        "latitude": 39.7374974,
-        "longitude": -104.9833087,
+        "latitude": 26.9239,
+        "longitude": 75.8267,
 		"movies": [
 			"Jurassic Park III"
 		],
@@ -321,8 +321,8 @@
 		"id": 10,
 		"name": "Indominus Rex",
 		"type": "land",
-        "latitude": 28.5729,
-        "longitude": -80.6490,
+        "latitude": 28.5244,
+        "longitude": 77.1855,
 		"movies": [
 			"Jurassic World"
 		],
@@ -339,8 +339,8 @@
 		"id": 11,
 		"name": "Mosasaurus",
 		"type": "sea",
-        "latitude": 65.53627,
-        "longitude": -168.08284,
+        "latitude": 11.6727,
+        "longitude": 92.7622,
 		"movies": [
 			"Jurassic World",
 			"Jurassic World: Fallen Kingdom",
@@ -369,8 +369,8 @@
 		"id": 12,
 		"name": "Dimorphodon",
 		"type": "air",
-        "latitude": 40.7484,
-        "longitude": -73.9857,
+        "latitude": 20.5522,
+        "longitude": 75.7031,
 		"movies": [
 			"Jurassic World",
             "Jurassic World: Dominion"
@@ -441,8 +441,8 @@
         "id": 15,
         "name": "Allosaurus",
         "type": "land",
-        "latitude": 34.1381,
-        "longitude": -118.3534,
+        "latitude": 23.4793,
+        "longitude": 77.7391,
         "movies": [
             "Jurassic World: Fallen Kingdom",
             "Jurassic World: Dominion"
@@ -465,8 +465,8 @@
 		"id": 16,
 		"name": "Indoraptor",
 		"type": "land",
-        "latitude": 35.540698,
-        "longitude": -82.552277,
+        "latitude": 25.2820,
+        "longitude": 83.0095,
 		"movies": [
 			"Jurassic World: Fallen Kingdom"
 		],
@@ -483,8 +483,8 @@
         "id": 17,
         "name": "Quetzalcoatlus",
         "type": "air",
-        "latitude": 40.6892,
-        "longitude": -74.0445,
+        "latitude": 9.2881,
+        "longitude": 79.3174,
         "movies": [
             "Jurassic World: Dominion"
         ],
@@ -519,8 +519,8 @@
         "id": 19,
         "name": "Atrociraptor",
         "type": "land",
-        "latitude": 40.2888,
-        "longitude": -76.6547,
+        "latitude": 8.0883,
+        "longitude": 77.5385,
         "movies": [
             "Jurassic World: Dominion"
         ],
@@ -537,8 +537,8 @@
         "id": 20,
         "name": "Therizinosaurus",
         "type": "land",
-        "latitude": 40.9857,
-        "longitude": -111.8949,
+        "latitude": 15.3350,
+        "longitude": 76.4600,
         "movies": [
             "Jurassic World: Dominion"
         ],
